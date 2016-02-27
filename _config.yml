@@ -1,0 +1,28 @@
+name: The Way of the Knife
+favicon: null
+layout_spectrum: 0.6731015243567526
+typography_spectrum: 0.6555334830190986
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7392059133853763
+  lightness: 0.525494827888906
+  saturation: 0.3419362944550812
+  rhythmicContrast: 0.3102413478773087
+purpose: []
